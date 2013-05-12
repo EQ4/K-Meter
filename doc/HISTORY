@@ -1,6 +1,10 @@
 Git HEAD
 ========
 
+* added true peak meter according to ITU-R BS.1770-3
+
+* overflow meter now counts "true peak" overflows
+
 * LV2 plug-in (GNU/Linux)
 
 * updated framework to JUCE v2.40
